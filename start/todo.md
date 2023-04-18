@@ -1,0 +1,3 @@
+- [] Bis 14.Mai: Themenvorschlag und Expose einreichen
+- [] Bis 16.Juli 25-seitige Ausarbeitung + Folien 25-minütigen Vortrag
+- [] Bis 31.August Abgabe Endfassung
