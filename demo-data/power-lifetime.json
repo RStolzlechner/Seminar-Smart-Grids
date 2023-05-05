@@ -1,0 +1,67 @@
+{
+	"data": {
+		"xAxis": [
+			"2022",
+			"2023"
+		],
+		"onGridPowerRatio": "0.00",
+		"selfUsePower": [
+			"--",
+			"0.00"
+		],
+		"selfUsePowerRatioByUse": "0.00",
+		"existInverter": true,
+		"stationTimezone": "Europe/Amsterdam",
+		"totalBuyPower": "--",
+		"existEnergyStore": false,
+		"totalProductPower": "2.70",
+		"existIrradiation": false,
+		"dischargePower": [
+			"--",
+			"0.00"
+		],
+		"radiationDosePower": [
+			"--",
+			"0.00"
+		],
+		"mainsUsePower": [
+			"--",
+			"--"
+		],
+		"buyPowerRatio": "0.00",
+		"selfUsePowerRatioByProduct": "100.00",
+		"totalSelfUsePower": "--",
+		"chargePower": [
+			"--",
+			"0.00"
+		],
+		"existCharge": false,
+		"existMeter": false,
+		"onGridPower": [
+			"--",
+			"--"
+		],
+		"clientTimezone": "Europe/Vienna",
+		"dieselProductPower": [
+			"--",
+			"--"
+		],
+		"stationDn": "NE=35940079",
+		"disGridPower": [
+			"--",
+			"--"
+		],
+		"selfProvide": "--",
+		"productPower": [
+			"--",
+			"2.70"
+		],
+		"usePower": [
+			"--",
+			"0.00"
+		],
+		"totalUsePower": "0.00",
+		"existUsePower": false,
+		"totalOnGridPower": "--"
+	}
+}
