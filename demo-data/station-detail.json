@@ -1,0 +1,139 @@
+{
+	"data": {
+		"stationDate": "2023-05-05",
+		"plantStatus": "connected",
+		"monthEnergy": "2.70",
+		"realNrgKpi": {
+			"yearNrg": {
+				"absNrg": 0,
+				"disNrg": 0,
+				"useNrg": 0,
+				"chgNrg": 0,
+				"pvNrg": 2.6599999999999997
+			},
+			"dailyNrg": {
+				"absNrg": 0,
+				"disNrg": 0,
+				"chgNrg": 0,
+				"pvNrg": 0.15
+			},
+			"lifeNrg": {
+				"absNrg": 0,
+				"disNrg": 0,
+				"useNrg": 0,
+				"chgNrg": 0,
+				"pvNrg": 2.6599999999999997
+			},
+			"monthNrg": {
+				"absNrg": 0,
+				"disNrg": 0,
+				"useNrg": 0,
+				"chgNrg": 0,
+				"pvNrg": 2.6599999999999997
+			}
+		},
+		"dailyEnergy": "0.19",
+		"eqPowerHours": 0,
+		"plantScene": "",
+		"onlyInverterPowerUnit": "kW",
+		"dailyDisChargeCapacity": "0.00",
+		"weather": "null",
+		"batteryCapacity": "0.0",
+		"poverty": "1",
+		"energyStoragePowerUnit": "kW",
+		"updateStationEnergyCacheTime": 1683270189,
+		"updateStationTypeTimestamp": 1683262327244,
+		"totalIrradiation": "0.0",
+		"timeZone": "&#x28;UTC+01:00&#x29;Amsterdam, Bern, Stockholm, Vienna",
+		"plantType": 1,
+		"stationSummary": "null",
+		"cumulativeChargeCapacity": "0.00",
+		"inverterPower": "16.000",
+		"realtimePower": {
+			"1683258300": 0,
+			"1683258600": 0,
+			"1683258900": 0,
+			"1683259200": 0,
+			"1683259500": 0,
+			"1683259800": 0.003,
+			"1683260100": 0.045,
+			"1683260400": 0.1,
+			"1683260700": 0.11299999999999999,
+			"1683261000": 0.11599999999999999,
+			"1683261300": 0.182,
+			"1683261600": 0.22000000000000003,
+			"1683261900": 0.249,
+			"1683262200": 0.317,
+			"1683262500": 0.346,
+			"1683262800": 0.36,
+			"1683263100": 0.443
+		},
+		"systemEfficiency": "0.0",
+		"onlyInverterPower": "16.000",
+		"energyStorageCapacity": "0",
+		"latitude": 47.247478,
+		"co2": 1.2825,
+		"plantAddress": "Vorderwaldberg 27, 5742 Vorderwaldberg, Österreich",
+		"reportUpdateTimestamp": 1683260503611,
+		"installedCapacity": "6.000",
+		"timeZoneCode": "80",
+		"currency": "4",
+		"treeYear": 0.0017520491803278686,
+		"runningStartTime": "2023-05-04 17:10:54",
+		"cacheBasicUpdateTimestamp": 1683262963748,
+		"dnId": 9515610,
+		"installedCapacityUnit": "MWp",
+		"createTime": 1683213201,
+		"photovoltaicNumber": "null",
+		"isShared": "false",
+		"nameSearch": "stolzlechner richardo",
+		"cacheFreSigUpdateTimestamp": 1683263167550,
+		"deviceAccessType": 0,
+		"dn": "NE=35940079",
+		"dailyChargeCapacity": "0.00",
+		"buildState": "null",
+		"energyStoragePower": "0",
+		"longitude": 12.207414,
+		"tree": 0.0017520491803278686,
+		"cumulativeDisChargeCapacity": "0.00",
+		"gridConnectedTime": "2023-05-04 15:10:54",
+		"yearEnergy": "2.70",
+		"areaCode": 13,
+		"energyStorageCapacityUnit": "kWh",
+		"chargeStore": "UnAvailable",
+		"currentPower": "0.44",
+		"name": "Stolzlechner Richardo",
+		"coal": 1.08,
+		"isPureCharge": "0",
+		"optimizerNum": 0,
+		"energyStore": "UnAvailable",
+		"cumulativeEnergy": "2.70",
+		"stationRunningDays": 0,
+		"parentDn": "NE=35368369",
+		"cumulativeReductionDust": 0.7344,
+		"existMeter": false,
+		"timeZoneId": "null",
+		"inverterPowerUnit": "kW",
+		"existNullCap": false,
+		"sceneType": 1,
+		"rptNrgKpi": {
+			"yearNrg": {
+				"pvNrg": 0
+			},
+			"dailyNrg": {
+				"absNrg": 0,
+				"pvNrg": 0
+			},
+			"lifeNrg": {
+				"pvNrg": 0
+			},
+			"monthNrg": {
+				"absNrg": 0,
+				"pvNrg": 2.51
+			}
+		},
+		"dailyIncome": 0.05,
+		"co2Year": 1.2825,
+		"coalYear": 1.08
+	}
+}
